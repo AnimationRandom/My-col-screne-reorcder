@@ -9,5 +9,5 @@
     height: 100vh;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(to right, #8ecdff, #8ecdff);
+    background-color: #8ecdff;
 }
