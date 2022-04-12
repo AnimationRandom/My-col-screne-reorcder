@@ -14,3 +14,24 @@ html{
     background-color: rgb(0, 17, 126);
     background: linear-gradient(45deg, rgb(30, 50, 194) 10%, rgb(52, 159, 255) 90%);
 }
+
+p {
+    color: white;
+    font-family: Comic Sans MS, Comic Sans, Arial;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black;
+}
+
+button {
+    font-family: Comic Sans MS, Comic Sans, Arial;
+    font-size: 25px;
+    width: 300px;
+    height: 50px;
+    margin: 0 auto 0 auto;
+    border: 2px solid black;
+    border-radius: 7px;
+    cursor: pointer;
+    background: rgb(255, 100, 200);
+    background: linear-gradient(50deg, rgba(255, 30, 230) 10%,  rgba(255, 100, 200) 90%);
+    transition-duration: 0.2s;
+}
